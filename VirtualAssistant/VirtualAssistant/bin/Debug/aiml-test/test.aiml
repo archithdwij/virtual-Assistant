@@ -1,0 +1,21 @@
+<aiml>
+
+<category>
+
+<pattern>WHO IS *</pattern>
+<template><star/> is a student.</template>
+
+</category>
+
+
+<category>
+
+<pattern>*</pattern>
+<template>I am still under development. Ask me anyother question.</template>
+
+</category>
+
+
+
+
+</aiml>
